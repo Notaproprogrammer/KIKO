@@ -6,7 +6,7 @@ The above C++ code will utilize certain Hardware components and give it line fol
 
 Harware: 
    1. Motors and Wheels x 2
-   2. L289n Motor Driver x 1
+   2. L298n Motor Driver x 1
    3. Arduino Uno x 1 (Using any other Arduino may require changes in code)
    4. IR Sensors x 4
    5. 6-18V Li-po battery x 1 [or any other battery (Must be more than 6V)(12V preferred)]
